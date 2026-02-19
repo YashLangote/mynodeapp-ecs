@@ -2,7 +2,7 @@
     "taskDefinitionArn": "arn:aws:ecs:eu-north-1:761639967858:task-definition/mytask-def:1",
     "containerDefinitions": [
         {
-            "name": "nicecint",
+            "name": "nodecont",
             "image": "761639967858.dkr.ecr.eu-north-1.amazonaws.com/myecr-repo",
             "cpu": 0,
             "portMappings": [
